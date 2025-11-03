@@ -6,25 +6,25 @@ export default function Home() {
       title: "Taha",
       role: "Frontend Developer",
       imageUrl:
-        "https://i.pinimg.com/736x/2a/0b/15/2a0b157c43e845b1adf8f45d4d89c2a4.jpg",
+        "https://i.pinimg.com/1200x/39/31/51/39315102ef98742ed606959230002188.jpg",
     },
     {
       title: "Alivi",
       role: "UI/UX Designer",
       imageUrl:
-        "https://i.pinimg.com/736x/b3/49/4c/b3494c9f5539a89a9b943f77d0a6c88a.jpg",
+        "https://i.pinimg.com/736x/07/44/0a/07440abb58c42192bc95a2fdfdbc81fe.jpg",
     },
     {
       title: "Haroon Rasheed",
       role: "Full Stack Developer",
       imageUrl:
-        "https://i.pinimg.com/736x/1c/76/17/1c7617de04b7d602c78d09f11ab6f8da.jpg",
+        "https://i.pinimg.com/1200x/67/be/be/67bebedec8c53d8ddffa86671c21d2b4.jpg",
     },
     {
       title: "Hamza",
       role: "Backend Engineer",
       imageUrl:
-        "https://i.pinimg.com/736x/64/f7/4f/64f74f41a2a059981ab95a6ac72b37de.jpg",
+        "https://i.pinimg.com/736x/af/21/e9/af21e9689bd4017ae43cdb3ad30ad82c.jpg",
     },
   ];
 
