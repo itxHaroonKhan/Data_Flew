@@ -3,28 +3,28 @@ import Card from "@/components/Card";
 export default function Home() {
   const Json = [
     {
+      title: "Taha",
+      role: "Frontend Developer",
+      imageUrl:
+        "https://i.pinimg.com/736x/2a/0b/15/2a0b157c43e845b1adf8f45d4d89c2a4.jpg",
+    },
+    {
+      title: "Alivi",
+      role: "UI/UX Designer",
+      imageUrl:
+        "https://i.pinimg.com/736x/b3/49/4c/b3494c9f5539a89a9b943f77d0a6c88a.jpg",
+    },
+    {
       title: "Haroon Rasheed",
       role: "Full Stack Developer",
       imageUrl:
         "https://i.pinimg.com/736x/1c/76/17/1c7617de04b7d602c78d09f11ab6f8da.jpg",
     },
     {
-      title: "Ahsan Ali",
-      role: "Frontend Developer",
-      imageUrl:
-        "https://i.pinimg.com/736x/f3/aa/3e/f3aa3e0ea574b2fdf91b77488b14af3f.jpg",
-    },
-    {
-      title: "Sara Ahmed",
-      role: "UI/UX Designer",
-      imageUrl:
-        "https://i.pinimg.com/736x/55/4e/bb/554ebb930f06b5a44404b6f3c235f43f.jpg",
-    },
-    {
-      title: "Bilal Khan",
+      title: "Hamza",
       role: "Backend Engineer",
       imageUrl:
-        "https://i.pinimg.com/736x/2d/18/4e/2d184e7a6e6f10b9a69bfe62a64cf50c.jpg",
+        "https://i.pinimg.com/736x/64/f7/4f/64f74f41a2a059981ab95a6ac72b37de.jpg",
     },
   ];
 
