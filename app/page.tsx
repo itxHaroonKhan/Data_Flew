@@ -12,7 +12,7 @@ export default function Home() {
       title: "Alivi",
       role: "UI/UX Designer",
       imageUrl:
-        "https://i.pinimg.com/736x/07/44/0a/07440abb58c42192bc95a2fdfdbc81fe.jpg",
+        "https://i.pinimg.com/736x/16/c3/0b/16c30baf01db9864dea255f7c7596f87.jpg",
     },
     {
       title: "Haroon Rasheed",
